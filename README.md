@@ -1,6 +1,6 @@
-# MiVerb JUCE Plugin
+# Sort of Oliverb JUCE Plugin
 
-This repository wraps the Mutable Instruments Parasites/Clouds reverb topology in a JUCE plugin (`MiVerb`).
+This repository wraps the Mutable Instruments Parasites/Clouds reverb topology in a JUCE plugin (`OliVerb`) and adds some extras.
 
 ## Build
 
