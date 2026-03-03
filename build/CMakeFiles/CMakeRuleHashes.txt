@@ -1,0 +1,5 @@
+# Hashes of file build rules.
+51a2bb22789cac5114b2118c17f9324a MiVerb_artefacts/JuceLibraryCode/JuceHeader.h
+c0f62845c71e384510ac3eb4ae6af4f2 MiVerb_artefacts/JuceLibraryCode/MiVerb_AU/PkgInfo
+404bee2994defc45e6529940ca25361d MiVerb_artefacts/JuceLibraryCode/MiVerb_Standalone/PkgInfo
+f06cb98908450077a505dba506167e65 MiVerb_artefacts/JuceLibraryCode/MiVerb_VST3/PkgInfo
