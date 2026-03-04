@@ -1,5 +1,7 @@
 # Sort of Oliverb JUCE Plugin
 
+![](https://github.com/maetyu-d/sort_of_oliverb/blob/main/Screenshot%202026-03-04%20at%2021.27.49.png)
+
 This repository wraps the Mutable Instruments Parasites/Clouds reverb topology in a JUCE plugin (`OliVerb`) and adds some extras.
 
 ## Build
